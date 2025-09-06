@@ -1,43 +1,34 @@
-Hi, I'm Inchal Kaverappa M. 
-MSc Bioinformatics Student | Computational Biologist
-I'm a passionate and motivated bioinformatics student specializing in computational analysis of biological data. My work focuses on the intersection of biology and computer science, with a keen interest in applying computational methods to solve real-world problems in genomics, proteomics, and drug discovery.
+Hi there, I'm Inchal Kaverappa M. 👋
+I'm a passionate MSc student specializing in bioinformatics and computational biology. My work focuses on developing and applying computational methods to solve complex problems in genomics and drug discovery. I'm actively seeking an internship to contribute my skills to a professional team.
 
  My Core Skills
-Languages: Python, R
+Programming Languages:
 
-Bioinformatics Tools: BLAST, ClustalW
+Bioinformatics Tools:
 
-Data Analysis: NGS Data Analysis, Data Visualization (Matplotlib, ggplot2)
+Version Control:
 
-Computational Methods: Molecular Docking & Simulation, In-silico Vaccine & Drug Designing
-
-Version Control: Git
-
- Projects & Research
+Featured Projects
 1. In-silico Vaccine Construction
-Engineered a multi-epitope vaccine against Cryptococcal Meningitis.
 
-Utilized bioinformatics tools to predict promising T-cell and B-cell epitopes.
+Project Focus: Designing a multi-epitope vaccine against Cryptococcal Meningitis.
 
-Performed molecular docking and simulation studies to validate vaccine efficacy.
+Key Skills: Immunoinformatics, epitope prediction, molecular docking, and simulation studies.
 
 2. In-silico Drug Designing
-Designed a novel drug candidate against Multi-Drug Resistant Tuberculosis.
 
-Employed computational target identification and high-throughput virtual screening of ligand databases.
+Project Focus: Designing a novel drug candidate for Multi-Drug Resistant Tuberculosis.
 
-Optimized lead compounds based on molecular docking scores and ADMET properties.
+Key Skills: Computational target identification, virtual screening, and pharmacokinetic analysis.
 
- I'm Currently Learning
-Advanced Machine Learning algorithms for genomic data analysis.
+What I'm Learning Next
+I'm currently expanding my skills in:
 
-Cloud computing platforms for scalable bioinformatics workflows.
+Machine Learning Algorithms: Applying advanced ML models to analyze genomic and proteomic data.
 
-Developing and optimizing custom analysis pipelines.
+Cloud Computing: Building scalable data pipelines on platforms like AWS and GCP.
 
- Let's Connect!
-📧 Email: kaverappaminchal@gmail.com
+Let's Connect!
+Email: kaverappaminchal@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/inchal-kaverappa-m-95178a291/
-
-"The future of biology is computational."
+LinkedIn: https://www.linkedin.com/in/inchal-kaverappa-m-95178a291/
